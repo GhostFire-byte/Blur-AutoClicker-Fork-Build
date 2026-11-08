@@ -52,7 +52,7 @@ Most auto clickers aren't accurate at high speeds. Set it to 50 CPS and you migh
 - Click and time limits
 - Double clicks
 - Position clicking (pick a spot, mouse moves and clicks there)
-- Per second, minute, hour, or day
+- Per second, minute, hour, or day 
 
 
 ## Quick Start
